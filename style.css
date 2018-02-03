@@ -1,0 +1,22 @@
+body{
+	background: no-repeat center center fixed;
+	background-image: url("https://images.megapixl.com/3305/33057058.jpg");
+	background-size: cover;
+}
+
+.spacer{
+	padding: 3%;
+}
+
+.block{
+	background-color: #000;
+	opacity: 0.75;
+	color: #fff;
+	font-size: 1.5em;
+	padding: 50px;
+	padding-bottom: 5%;
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 15px; 
+}
