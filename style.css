@@ -20,3 +20,8 @@ body{
 	margin-left: auto;
 	border-radius: 15px; 
 }
+
+a{
+	color: #fff;
+	text-decoration: none;
+}
